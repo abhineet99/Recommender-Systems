@@ -104,12 +104,13 @@ A detail on on NMF is provided in a reference text in the repository.
 | Z-Score User Based | 1.138 |
 | KMeans | 1.0093 |
 | Clustering Approach [2] | 0.9622 |
-|--Latent Factor Models--| |	
+|--**Latent Factor Models**--| |	
 | BGD | 0.96311 |
 | With Regularization | 0.93846 |
 | With Regularization+Bias Accounting | 0.93794 |
 | SVD | 0.89248 |
 | NMF | 0.9468 |
+
 \* Pearson Coefficient has been used as similarity metric in this table wherever required.
 ## Authors
 
