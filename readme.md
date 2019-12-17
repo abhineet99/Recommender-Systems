@@ -19,7 +19,6 @@ matplotlib
 Installation:
 
 ```
-cd RecommenderSystemsLab1
 pip3 install -r requirements.txt
 ```
 
@@ -66,6 +65,19 @@ Basic clustering approach, as described in [1](https://github.com/abhineet99/cs5
 
 Other approach using data smoothening, as described in [2](https://github.com/abhineet99/cs529/#references) is also implemented.
 
+## Latent Factor Models
+
+In these approaches, we factorize the ratings matrix, and multiply the factors to get the predicted ratings.
+Different Approaches for factorization in code:
+
+1) Batch Gradient Descent
+2) Stochastic Gradient Descent
+3) Gradient Descent with Regularization
+4) Accounting for bias terms in GD + Regularization
+5) Non Negative Factorization (NMF)
+6) Singular Value Decomposition
+
+A detail on on NMF is provided in a reference text in the repository.
 
 
 ## Authors
