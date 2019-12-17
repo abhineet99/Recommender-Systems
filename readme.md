@@ -4,8 +4,21 @@ The repository deals with recommender systems and various approaches to it. The 
 CF=> Collaborative Filtering
 
 ## Structure of repository
-All the code is present in jupyter notebooks, with my findings in findings.pdf file. The notebooks are well documented. A notebook named UnderstandingDataset is also present, to get some insights into the dataset. Train-Test split used is 70-30.
-The dataset used is MovieLens Small, with 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users, available on https://grouplens.org/datasets/movielens/ (Last accessed Dec 17, 2019).
+
+--------
+	|
+	-Code
+		|
+		-All the code files
+--------
+	|
+	-ml-latest-small
+		|
+		-Dataset Files
+
+
+All the code is present as jupyter notebooks, with my findings in findings.pdf file. The notebooks are well documented. A notebook named UnderstandingDataset is also present, to get some insights into the dataset. Train-Test split used is 70-30.
+The **dataset** used is MovieLens Small, with 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users, available on https://grouplens.org/datasets/movielens/ (Last accessed Dec 17, 2019). The files are also available in the folder "ml-latest-small".
 
 
 ### Prerequisites
