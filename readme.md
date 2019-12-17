@@ -62,9 +62,9 @@ For the long tail issue, inverse frequency is also introduced while calculating 
 
 ### Clustering Approaches
 
-Basic clustering approach, as described in [1] is implemented.
+Basic clustering approach, as described in [1](https://github.com/abhineet99/cs529/#references) is implemented.
 
-Other approach using data smoothening, as described in [2] is also implemented.
+Other approach using data smoothening, as described in [2](https://github.com/abhineet99/cs529/#references) is also implemented.
 
 
 
